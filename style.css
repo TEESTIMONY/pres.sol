@@ -181,7 +181,7 @@ body {
 
 .card {
     background-color: #151514; /* Slightly lighter dark color for the cards */
-    border:2px solid #ec1d25 ;
+    border:2px solid #d51708 ;
     padding: 20px;
     border-radius: 10px;
     width: 300px;
@@ -208,14 +208,14 @@ body {
     font-family: "Chokokutai", system-ui;
     font-optical-sizing: auto;
     font-weight: 700;
-    color:#ec1d25;
+    color:#d51708;
 
 }
 
 h2 {
     font-size: 26px;
     font-family: "Signika", sans-serif;
-    color: #ec1d25; /* Highlighted number color */
+    color: #d51708; /* Highlighted number color */
     margin-bottom: 8px;
 }
 
@@ -250,7 +250,7 @@ p {
     color: white;
     position: relative;
     width: 300px;
-    border:2px solid #ec1d25 ;
+    border:2px solid #d51708 ;
     
 
 
@@ -312,13 +312,13 @@ p {
     font-family: "Signika", sans-serif;
     font-optical-sizing: auto;
     font-weight: 700;
-    color:#ec1d25;
+    color:#d51708;
     text-decoration: underline;
 }
 
 .project_card .card-container .card_proj .content h2 a{
     margin-bottom: 20px;
-    color: #ec1d25;
+    color: #d51708;
     font-size: 25px;
     text-decoration: none;
 
@@ -333,7 +333,7 @@ p {
 
 .project_card .card_proj:hover {
     transform: translateY(-15px);
-    border-color: #ec1d25;
+    border-color: #d51708;
    
 
 }
@@ -361,7 +361,7 @@ p {
 
 
 .collab h1 span{
-    color: #ec1d25;
+    color: #d51708;
     font-family: "Signika", sans-serif;
     
 
@@ -371,7 +371,7 @@ p {
 .collab h2{
     margin-bottom: 30px;
     font-size: 2rem;
-    color: #ec1d25;
+    color: #d51708;
     font-family: "Signika", sans-serif;
     
 
@@ -395,8 +395,8 @@ p {
     align-items: center;
     width: 220px;
     height: 50px;
-    background: #ec1d25;
-    border: 2px solid #ec1d25;
+    background: #d51708;
+    border: 2px solid #d51708;
     border-radius: 8px;
     font-size: 19px;
     color: #FFFFFC;
@@ -412,7 +412,7 @@ p {
 
 .collab .collab-btn-box a:hover {
     transform: translateY(-15px);
-    border-color: #ec1d25;
+    border-color: #d51708;
 }
 
 .footer{
@@ -438,10 +438,10 @@ p {
     width: 40px;
     height: 40px;
     background: transparent;
-    border: 2px solid #ec1d25;
+    border: 2px solid #d51708;
     border-radius: 50%;
     font-size: 20px;
-    color: #ec1d25;
+    color: #d51708;
     text-decoration: none;
     z-index: 1;
     overflow: hidden;
@@ -590,7 +590,7 @@ p {
 
     .card {
         background-color: #151514; /* Slightly lighter dark color for the cards */
-        border:2px solid #ec1d25 ;
+        border:2px solid #d51708 ;
         padding: 20px;
         border-radius: 10px;
         width: 370px;
@@ -602,7 +602,7 @@ p {
     h2 {
         font-size: 30px;
         font-family: "Signika", sans-serif;
-        color: #ec1d25; /* Highlighted number color */
+        color: #d51708; /* Highlighted number color */
         margin-bottom: 8px;
     }
     
@@ -759,7 +759,7 @@ p {
 
     .card {
         background-color: #151514; /* Slightly lighter dark color for the cards */
-        border:2px solid #ec1d25 ;
+        border:2px solid #d51708 ;
         padding: 20px;
         border-radius: 10px;
         width: 320px;
@@ -1025,7 +1025,7 @@ p {
 
     .card {
         background-color: #151514; /* Slightly lighter dark color for the cards */
-        border:2px solid #ec1d25 ;
+        border:2px solid #d51708 ;
         padding: 20px;
         border-radius: 10px;
         width: 370px;
@@ -1114,7 +1114,7 @@ p {
 
     .card {
         background-color: #151514; /* Slightly lighter dark color for the cards */
-        border:2px solid #ec1d25 ;
+        border:2px solid #d51708 ;
         padding: 20px;
         border-radius: 10px;
         width: 300px;
